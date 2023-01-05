@@ -13,12 +13,12 @@
     "@sencha/ext": "^7.0.0",
     "@sencha/ext-modern": "^7.0.0",
     "@sencha/ext-modern-theme-material": "^7.0.0",
-    "@sencha/ext-webpack-plugin": "^7.0.0",
+    "@sencha/ext-webpack-plugin": "^7.6.0",
     "@webcomponents/webcomponentsjs": "^2.2.10"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.10.0",
-    "@vue/cli-service": "^3.10.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "vue-template-compiler": "^2.6.10"
   }
 }
